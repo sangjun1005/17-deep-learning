@@ -220,4 +220,11 @@ __marimo__/
 .streamlit/secrets.toml
 *.pdf
 *.txt
-lecture
+/lecture
+/helmet
+/data
+chest_xray
+정리노트
+*.pt
+*.pth
+*.bundle
